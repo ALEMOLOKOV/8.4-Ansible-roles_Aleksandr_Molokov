@@ -12,6 +12,8 @@ Lighthouse on the specified host
 
 Install and configur Nginx on the specified host
 
+Before start playbook need to download roles, please check file requirements.yml
+command for downloading ansible-galaxy install -r requirements.yml -p roles into playbook directory
 
 # Requirements
 

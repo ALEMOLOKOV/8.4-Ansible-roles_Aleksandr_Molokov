@@ -2,17 +2,17 @@
 clickhouse:
   hosts:
     clickhouse:
-      ansible_host: 51.250.72.71
+      ansible_host: 84.201.158.62
       ansible_ssh_user: amolokov
 vector:
   hosts:
     vector:
-      ansible_host: 51.250.84.243
+      ansible_host: 51.250.72.54
       ansible_ssh_user: amolokov
 lighthouse:
   hosts:
     lighthouse:
-      ansible_host: 51.250.81.185
+      ansible_host: 51.250.73.59
       ansible_ssh_user: amolokov
 
 
